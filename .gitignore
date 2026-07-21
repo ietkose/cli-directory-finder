@@ -1,0 +1,3 @@
+# Derlenmiş binary/exe dosyalarını yut
+*.exe
+dizin_bulucu
