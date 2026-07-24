@@ -37,11 +37,11 @@ cd cli-directory-finder
 2. Run the Tool
 ```bash
 # Search in current directory
-python finder.py
+go run dizin_bulucu.go
 ```
 ```bash
 # Search in a specific path or extension
-python finder.py --path /path/to/dir --ext .py
+go run dizin_bulucu.go --path /path/to/dir --ext .go
 ```
 
 ### 🌟 License
@@ -72,11 +72,11 @@ cd cli-directory-finder
 2. Uygulamayı Başlatın
 ```bash
 # Bulunduğunuz dizinde arama yapın
-python finder.py
+go run dizin_bulucu.go
 ```
 ```bash
 # Belirli bir dizin veya uzantı için arama yapın
-python finder.py --path /dosya/yolu --ext .py
+go run dizin_bulucu.go --path /path/to/dir --ext .go
 ```
 
 ### 🌟 Lisans
