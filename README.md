@@ -21,8 +21,8 @@
 ---
 
 ### 🌟 Tech Stack
-* **Language:** Python 3.8+
-* **Core Modules:** `os`, `sys`, `pathlib`, `argparse`
+* **Language:** Go (Golang 1.20+)
+* **Core Packages:** `os`, `path/filepath`, `flag`, `fmt`
 
 ---
 
@@ -59,8 +59,8 @@ CLI Directory Finder, terminal üzerinden dizinleri, dosyaları ve klasör hiyer
 * **Hafif ve Hızlı:** Gereksiz bağımlılıklardan arındırılmış, geliştirici dostu yüksek performans.
 
 ### 🌟 Kullanılan Teknolojiler
-* **Dil:** Python 3.8+
-* **Çekirdek Modüller:** os, sys, pathlib, argparse
+* **Dil:** Go (Golang 1.20+)
+* **Çekirdek Paketler:** `os`, `path/filepath`, `flag`, `fmt`
 
 ### 🌟 Kurulum ve Çalıştırma
 1. Depoyu Klonlayın
