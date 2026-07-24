@@ -1,4 +1,4 @@
-# CLI Directory Finder
+# CLI Directory Finder / Dizin Bulucu
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![CLI](https://img.shields.io/badge/CLI-Tool-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
@@ -13,10 +13,10 @@
 **CLI Directory Finder** is a fast, lightweight, and interactive command-line utility built to search, filter, and map file structures and directories seamlessly directly from your terminal.
 
 ### 🌟 Key Features
-* ** Fast Search**: Search for files and folders instantly across deep nested directories.
-* ** Flexible Filtering**: Filter by file extension, pattern, or depth level.
-* ** Interactive Terminal Output**: Clean, highlighted, and easy-to-read tree/directory structure display.
-* ** Lightweight**: Minimal external dependencies, built for speed and developer efficiency.
+* **Fast Search**: Search for files and folders instantly across deep nested directories.
+* **Flexible Filtering**: Filter by file extension, pattern, or depth level.
+* **Interactive Terminal Output**: Clean, highlighted, and easy-to-read tree/directory structure display.
+* **Lightweight**: Minimal external dependencies, built for speed and developer efficiency.
 
 ---
 
