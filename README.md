@@ -1,4 +1,4 @@
-# CLI Directory Finder / Dizin Bulucu
+# Directory Finder / Dizin Bulucu
 
 [![Go](https://img.shields.io/badge/Go-1.20%2B-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![CLI](https://img.shields.io/badge/CLI-Tool-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
@@ -10,7 +10,7 @@
 
 ## 🇬🇧 ENGLISH
 
-**CLI Directory Finder** is a fast, lightweight, and interactive command-line utility built to search, filter, and map file structures and directories seamlessly directly from your terminal.
+**Directory Finder** is a fast, lightweight, and interactive command-line utility built to search, filter, and map file structures and directories seamlessly directly from your terminal.
 
 ### 🌟 Key Features
 * **Fast Search**: Search for files and folders instantly across deep nested directories.
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 ✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦
 
 ## 🇹🇷 TÜRKÇE
-CLI Directory Finder, terminal üzerinden dizinleri, dosyaları ve klasör hiyerarşilerini hızlıca aramanızı, filtrelemenizi ve listelemenizi sağlayan hafif ve etkileşimli bir komut satırı aracıdır.
+Directory Finder, terminal üzerinden dizinleri, dosyaları ve klasör hiyerarşilerini hızlıca aramanızı, filtrelemenizi ve listelemenizi sağlayan hafif ve etkileşimli bir komut satırı aracıdır.
 
 ### 🌟 Öne Çıkan Özellikler
 * **Hızlı Arama:** Derin klasör hiyerarşilerinde dosyaları ve klasörleri anında bulun.
