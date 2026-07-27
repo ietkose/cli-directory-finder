@@ -81,3 +81,9 @@ go run dizin_bulucu.go --path /path/to/dir --ext .go
 
 ### 🌟 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
+
+✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦
+
+## Sample Images / Örnek Görseller
+<img width="1460" height="640" alt="Ekran görüntüsü 2026-07-27 143426" src="https://github.com/user-attachments/assets/928b57dc-8594-4290-a59f-651d95344c27" />
+<img width="1143" height="258" alt="Ekran görüntüsü 2026-07-27 143439" src="https://github.com/user-attachments/assets/ab1dd60b-64be-4700-8e5a-48f7c9d14af0" />
