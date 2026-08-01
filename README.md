@@ -30,8 +30,8 @@
 
 #### 1. Clone the Repository
 ```bash
-git clone [https://github.com/ietkose/cli-directory-finder.git](https://github.com/ietkose/cli-directory-finder.git)
-cd cli-directory-finder
+git clone [https://github.com/ietkose/cli-directory-finder.git](https://github.com/ietkose/directory-finder.git)
+cd directory-finder
 ```
 
 2. Run the Tool
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 ✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦✦•┈๑⋅⋯ ⋯⋅๑┈•✦
 
 ## 🇹🇷 TÜRKÇE
-Directory Finder, terminal üzerinden dizinleri, dosyaları ve klasör hiyerarşilerini hızlıca aramanızı, filtrelemenizi ve listelemenizi sağlayan hafif ve etkileşimli bir komut satırı aracıdır.
+**Dizin Bulucu**, terminal üzerinden dizinleri, dosyaları ve klasör hiyerarşilerini hızlıca aramanızı, filtrelemenizi ve listelemenizi sağlayan hafif ve etkileşimli bir komut satırı aracıdır.
 
 ### 🌟 Öne Çıkan Özellikler
 * **Hızlı Arama:** Derin klasör hiyerarşilerinde dosyaları ve klasörleri anında bulun.
@@ -65,8 +65,8 @@ Directory Finder, terminal üzerinden dizinleri, dosyaları ve klasör hiyerarş
 ### 🌟 Kurulum ve Çalıştırma
 1. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/ietkose/cli-directory-finder.git](https://github.com/ietkose/cli-directory-finder.git)
-cd cli-directory-finder
+git clone [https://github.com/ietkose/cli-directory-finder.git](https://github.com/ietkose/directory-finder.git)
+cd directory-finder
 ```
 
 2. Uygulamayı Başlatın
